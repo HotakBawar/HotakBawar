@@ -8,7 +8,7 @@
 - 🌱 learning Fullstack Web Development.
 - 👯 I’m looking to collaborate on ...
 - 🤔 Need some help with technical interview.
-- 📫 How to reach me: bhotak@csumb.edu.
+- 📫 How to reach me: bhotak@csumb.edu | LinkedIn
 - 💭 Let's get to know each other.
 -->
 
