@@ -2,6 +2,7 @@
   
   
        Bawar Hotak| 👩🏻‍💻 Software Engineer | 🌏 California, USA
+     
        
 - 🔭 currently working on develeping a website for nonprofit organization.
 - 🌱 learning Fullstack Web Development.
