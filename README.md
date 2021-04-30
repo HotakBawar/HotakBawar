@@ -1,9 +1,12 @@
                                   Hello World 👋
-
-- 🔭 I’m currently working on develeping a website for nonprofit organization.
-- 🌱 I’m currently learning Fullstack Web Development.
+  
+  
+       Bawar Hotak| 👩🏻‍💻 Software Engineer | 🌏 California, USA
+       
+- 🔭 currently working on develeping a website for nonprofit organization.
+- 🌱 learning Fullstack Web Development.
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🤔 Need some help with technical interview.
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
