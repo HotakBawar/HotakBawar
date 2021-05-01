@@ -1,4 +1,4 @@
-                                  Hello World 👋
+                            Hello World 👋
   
   
        Bawar Hotak| 👩🏻‍💻 Software Engineer | 🌏 California, USA
